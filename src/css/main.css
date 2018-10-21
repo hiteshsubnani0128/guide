@@ -1,5 +1,7 @@
 /* globals */
-
+*{
+  font-size=20px;
+}
 .colourDarkGrey {
   color: #444;
 }
